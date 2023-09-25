@@ -19,7 +19,8 @@ import Github, { gitHubApiResponse } from "./components/Github/Github";
 //     path: "/",
 //     element: <Layout />,
 //     children: [
-//       { path: "", element: <Home /> },
+//       { path: "",
+//         element: <Home /> },
 //       {
 //         path: "about",
 //         element: <About />,
